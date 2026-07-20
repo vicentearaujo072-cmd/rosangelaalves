@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="100%" height="100%">
   <!-- Orange R -->
-  <text x="40" y="170" font-family="Georgia, 'Times New Roman', serif" font-size="150" fill="#D75C37">R</text>
+  <text x="40" y="170" font-family="Georgia, 'Times New Roman', serif" font-size="150" fill="#E6552A">R</text>
   
   <!-- Black A -->
   <text x="110" y="170" font-family="Georgia, 'Times New Roman', serif" font-size="170" fill="#1A1A1A">A</text>
   
   <!-- Orange Dot -->
-  <circle cx="215" cy="140" r="16" fill="#D75C37" />
+  <circle cx="215" cy="140" r="16" fill="#E6552A" />
   
   <!-- Crown on top of A -->
   <!-- A's peak is roughly at x=165, y=40 -->
