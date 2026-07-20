@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="100%" height="100%">
+  <!-- Orange R -->
+  <text x="40" y="170" font-family="Georgia, 'Times New Roman', serif" font-size="150" fill="#D75C37">R</text>
+  
+  <!-- Black A -->
+  <text x="110" y="170" font-family="Georgia, 'Times New Roman', serif" font-size="170" fill="#1A1A1A">A</text>
+  
+  <!-- Orange Dot -->
+  <circle cx="215" cy="140" r="16" fill="#D75C37" />
+  
+  <!-- Crown on top of A -->
+  <!-- A's peak is roughly at x=165, y=40 -->
+  <g transform="translate(162, 35)">
+    <path d="M-25,15 L-12,25 L0,5 L12,25 L25,15 L20,35 L-20,35 Z" fill="#1A1A1A"/>
+    <!-- Dots on crown -->
+    <circle cx="-25" cy="12" r="3" fill="#1A1A1A"/>
+    <circle cx="-12" cy="22" r="3" fill="#1A1A1A"/>
+    <circle cx="0" cy="2" r="3" fill="#1A1A1A"/>
+    <circle cx="12" cy="22" r="3" fill="#1A1A1A"/>
+    <circle cx="25" cy="12" r="3" fill="#1A1A1A"/>
+    <!-- Crown base -->
+    <rect x="-18" y="38" width="36" height="3" rx="1.5" fill="#1A1A1A"/>
+  </g>
+</svg>
