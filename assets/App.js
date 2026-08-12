@@ -168,7 +168,7 @@
         if (!internal) return;
         var s = document.createElement("script");
         s.async = true;
-        s.src = "https://www.googletagmanager.com/gtag/js?id=G-2M6V79H761";
+        s.src = "https://www.googletagmanager.com/gtag/js?id=G-4J6DST8J2T";
         document.head.appendChild(s);
         window.dataLayer = window.dataLayer || [];
         window.gtag =
@@ -177,7 +177,7 @@
             window.dataLayer.push(arguments);
           };
         window.gtag("js", new Date());
-        window.gtag("config", "G-2M6V79H761");
+        window.gtag("config", "G-4J6DST8J2T");
       })();
     </script>
 
